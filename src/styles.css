@@ -1,0 +1,7 @@
+.float_left{
+    float: left;
+    width: 33%;
+}
+#sidebar1 ,#sidebar2{
+    color: red;
+}
